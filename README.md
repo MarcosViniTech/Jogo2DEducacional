@@ -2,6 +2,8 @@
 
 Projeto acadêmico de um jogo 2D criado no terceiro semestre de Ciência da Computação, desenvolvido na **Godot Engine**, criado com o objetivo de aplicar conceitos de desenvolvimento de jogos, lógica de programação e interação entre elementos em um ambiente virtual. 
 
+Vídeo do Jogo funcionando: [Jogo](https://drive.google.com/file/d/1Vp4VlChsOAyyp93eyz3Fs0IAkWf76TuE/view?usp=drive_link)
+
 ## 📌 Sobre o projeto
 
 **O Estudante Universitário** é um jogo 2D no estilo plataforma, onde o jogador enfrenta desafios relacionados à vida acadêmica.
